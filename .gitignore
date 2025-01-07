@@ -3,4 +3,5 @@
 *.key
 *.pyc 
 /__pycache__
+/Watergate/
 
