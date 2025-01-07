@@ -1,5 +1,5 @@
-/__pycache__
-/.venv
+
+.venv
 *.key
 *.pyc 
 __pycache__
